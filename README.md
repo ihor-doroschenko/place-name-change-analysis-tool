@@ -1,1 +1,1 @@
-# place-name-change-analysis-tool
+# Analysis of place name changes
